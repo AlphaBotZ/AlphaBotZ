@@ -2,7 +2,7 @@
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" 
-         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Welcome+to+my+Github+profile+page" 
+         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Welcome+to+my+homepage" 
          alt="Hello World" 
          title="Hello World"/>
 </p>
