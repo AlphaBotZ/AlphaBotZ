@@ -10,8 +10,7 @@
 <!-- GitHub Stats -->
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img width="400" 
-         src="https://github-readme-stats.vercel.app/api?username=AlphaBotZ&theme=transparent&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" 
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AlphaBotZ&theme=transparent&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" 
          alt="Profile Stats" 
          title="Profile Stats" />
     
