@@ -13,7 +13,7 @@
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=AlphaBotZ&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=AlphaBotZ&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=AlphaBotZ&theme=transparent&hide_border=true&locale=en&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
 </p>
 
 <!-- Activity Graph -->
